@@ -1,7 +1,3 @@
->>>>>>>>> HEAD
 texto
 texto2
-texto4
-=========
-Primera linea de info_pryoecto.txt
->>>>>>>> BODY
+texto3
