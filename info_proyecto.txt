@@ -1,3 +1,7 @@
 texto2
 tercera linea
+<<<<<<< HEAD
 SergioBolivar
+=======
+Dalila
+>>>>>>> 1b28a4d5cbbfdefdd9769d6df9e70844c39cc38a
