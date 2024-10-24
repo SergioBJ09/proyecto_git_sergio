@@ -1,3 +1,2 @@
-texto1
 texto2
 tercera linea
